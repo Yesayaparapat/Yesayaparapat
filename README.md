@@ -24,6 +24,10 @@ Jika kamu tertarik untuk berkenalan denganku,silahkan ikuti aku [Linkedin](https
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)
 
 
-
-
-
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Yesayaparapat">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yesayaparapat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yesayaparapat&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
